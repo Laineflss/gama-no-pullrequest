@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+O curso é legal, embora esteja tudo indo muito rápido!
